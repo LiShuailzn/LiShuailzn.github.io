@@ -50,10 +50,10 @@ section header h2{
 
 section .main-body{
     font-size: 1.3rem;
-    font-weight: 200;
+    font-weight: 400;      /* 正常字重，不用 200 那么细 */
     line-height: 2.4rem;
+    color: #333333;        /* 深一点的灰，接近黑色 */
 }
-
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;

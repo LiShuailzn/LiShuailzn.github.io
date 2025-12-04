@@ -2,6 +2,8 @@
 
 [![Shuai Li](https://img.shields.io/badge/LiShuailzn-github-blue?logo=github)](https://github.com/LiShuailzn)
 
+<br><br>
+
 ## 🧑‍🎓 个人简介
 
 我目前就读于山西大学大数据科学与产业研究院，攻读硕士学位（研二在读）。已在 **_NeurIPS 2025_** 录用一篇论文，并完成一篇投稿至 **_IEEE TPAMI_** 的工作，同时完成了 **_ICML 2026_** 的投稿。此外，我荣获了 2025 年 **_国家奖学金_**。上述成果主要来自于我硕士阶段前期的基础性研究工作。

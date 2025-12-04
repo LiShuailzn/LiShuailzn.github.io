@@ -2,7 +2,7 @@
 
 [![Shuai Li](https://img.shields.io/badge/LiShuailzn-github-blue?logo=github)](https://github.com/LiShuailzn)
 
-<br><br>
+<br>
 
 ## 🧑‍🎓 个人简介
 
@@ -12,7 +12,7 @@
 
 我善于发现问题，并以沉稳、冷静的心态分析和解决问题。目前，我正在积极寻找合适的博士攻读机会，如果您对我的研究方向感兴趣，欢迎随时与我联系。
 
-<br><br>
+<br>
 
 ## 📬Contact
 
@@ -20,14 +20,14 @@ WeChat : ls18396856036\
 Email : LiShuai_liuzhaona@163.com\
 Gmail : lishuai.lxylxy@gmail.com
 
-<br><br>
+<br>
 
 ## 🎓 Education
 
 学士 : 菏泽学院, 专业 : 计算机科学与技术, 2020-2024.\
 硕士 : 山西大学(双一流), 专业 : 计算机科学与技术, 2024-2027.
 
-<br><br>
+<br>
 
 ## 🔬 Research Interests
 Evolutionary Learning, Evolutionary Multimodal Learning, Knowledge Distillation.

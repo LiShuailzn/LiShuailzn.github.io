@@ -7,7 +7,7 @@
 - **Evolutionary Multi-View Classification with Gradient and Feature Dual-Perception**  
   _International Conference on Machine Learning (ICML 2026)_, submitted.
 
-<br><br>
+<br>
 
 ### ✅ Published
 

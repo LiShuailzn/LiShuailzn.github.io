@@ -1,5 +1,5 @@
 
-- 李帅
+- Outstanding Graduate Award (CUMT), 2024.
 
 - Outstanding Graduate Award (CUMT), 2025.
 

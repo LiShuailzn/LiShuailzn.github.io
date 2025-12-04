@@ -1,17 +1,20 @@
 
 
-[![Shuai Li](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/LiShuailzn)
+[![Shuai Li](https://img.shields.io/badge/LiShuailzn-github-blue?logo=github)](https://github.com/LiShuailzn)
 
-我目前就读于山西大学大数据科学与产业研究院,是一名研二硕士。
+我目前就读于山西大学大数据科学与产业研究院,攻读硕士学位。目前研二在读。
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+WeChat : ls18396856036\
+Email : LiShuai_liuzhaona@163.com\
+Gmail : lishuai.lxylxy@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+学士 : 菏泽学院, 2020-2024.\
+硕士 : 山西大学(双一流), 2024-2027.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Evolutionary Learning, Evolutionary Multimodal Learning, Knowledge Distillation.
 

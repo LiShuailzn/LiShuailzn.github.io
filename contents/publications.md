@@ -1,10 +1,14 @@
-#### Submitted
+## 📄 PUBLICATIONS
 
-- Individual Evaluation Quality is Important for Evolutionary Multi-View Learning, _IEEE TPAMI_
-- Evolutionary Multi-View Classification with Gradient and Feature Dual-Perception, _ICML 26_
+### 📨 Submitted
 
-#### Published
+- **Individual Evaluation Quality is Important for Evolutionary Multi-View Learning**  
+  _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, submitted.
 
-- Evolutionary multi-view classification via eliminating individual fitness bias, _NeurIPS 25_, [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC)
+- **Evolutionary Multi-View Classification with Gradient and Feature Dual-Perception**  
+  _International Conference on Machine Learning (ICML 2026)_, submitted.
 
+### ✅ Published
 
+- **Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias**  
+  _NeurIPS 2025 (Conference on Neural Information Processing Systems)_. [paper]

@@ -22,22 +22,20 @@
 
 ## 📬Contact
 
-WeChat : ls18396856036
+WeChat ： ls18396856036
 
-Email : LiShuai_liuzhaona@163.com
+Email ： LiShuai_liuzhaona@163.com
 
-Gmail : lishuai.lxylxy@gmail.com
+Gmail ： lishuai.lxylxy@gmail.com
 
 <br>
 
 ## 🎓 Education
 
-学士 : 菏泽学院, 专业 : 计算机科学与技术, 2020-2024.
-
-硕士 : 山西大学(双一流), 专业 : 计算机科学与技术, 2024-2027.
+研二在读 ： 山西大学(双一流)， 专业 ： 计算机科学与技术， 2024-2027。
 
 <br>
 
 ## 🔬 Research Interests
-Evolutionary Learning, Evolutionary Multimodal Learning, Knowledge Distillation.
+Evolutionary Learning， Evolutionary Multimodal Learning， Knowledge Distillation。
 

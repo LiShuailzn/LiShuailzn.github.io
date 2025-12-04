@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Shuai Li]](https://github.com/LiShuailzn)
 
 我目前就读于山西大学大数据科学与产业研究院。
 

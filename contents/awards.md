@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 - 李帅.....
+=======
+- Outstanding Graduate Award (CUMT), 2024.
+>>>>>>> ba636073d1724abcea7d71cd92ef1ef2390d69b9
 
 - Outstanding Graduate Award (CUMT), 2025.
 

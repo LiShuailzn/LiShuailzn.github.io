@@ -1,1 +1,1 @@
-- <span style="color:red;">国家奖学金 [2025]</span>
+- <span class="highlight">国家奖学金 [2025]</span>

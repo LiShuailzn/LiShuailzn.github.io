@@ -1,6 +1,6 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
-- 李帅.....
 =======
 - Outstanding Graduate Award (CUMT), 2024.
 >>>>>>> ba636073d1724abcea7d71cd92ef1ef2390d69b9
@@ -20,3 +20,5 @@
 - First-Prize Corporate Scholarship (CUMT), 2020.
 
 - First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+=======
+>>>>>>> e539ae54e772b64086fb72cd7a563ec4d760640e

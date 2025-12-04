@@ -109,4 +109,9 @@ section .main-body{
     }
 }
 
+.highlight {
+    font-weight: 600;
+    font-style: italic;
+    color: #c62828;   /* 稍微偏红一点的颜色 */
+}
 

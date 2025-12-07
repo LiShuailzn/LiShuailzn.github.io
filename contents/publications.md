@@ -4,8 +4,6 @@
 
 - Individual Evaluation Quality is Important for Evolutionary Multi-View Learning， _IEEE TPAMI_， submitted。
 
-- Evolutionary Multi-View Classification with Gradient and Feature Dual-Perception， _ICML 2026_， submitted。
-
 <br>
 
 ### ✅ Published

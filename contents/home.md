@@ -16,9 +16,6 @@
 在硕士中后期，我的主要研究方向是探索如何将演化多模态学习应用于各类实际应用场景与学科中，一方面推动相关领域的发展，
 另一方面通过真实场景中的反馈不断完善与反哺演化算法本身。
 
-我善于发现问题，并以沉稳、冷静的心态分析和解决问题。目前，我正在积极寻找合适的博士攻读机会，对契合自身能力与潜力的研究方向都保持开放态度。
-若有机会在您的指导下继续深造，我将倍感荣幸。
-
 <br>
 
 ## 📬Contact
@@ -27,16 +24,14 @@ WeChat ： ls18396856036
 
 Email ： LiShuai_liuzhaona@163.com
 
-Gmail ： lishuai.lxylxy@gmail.com
-
 <br>
 
 ## 🎓 Education
 
-研二在读 ： 山西大学(双一流)， 专业 ： 计算机科学与技术， 2024-2027。
+博士 ： 山西大学(双一流)， 专业 ： 计算机科学与技术， 2026-2030。
 
 <br>
 
 ## 🔬 Research Interests
-Evolutionary Learning， Evolutionary Multimodal Learning， Knowledge Distillation。
+Evolutionary Learning， Evolutionary Multimodal Learning， Knowledge Distillation，  Reinforcement Learning。
 

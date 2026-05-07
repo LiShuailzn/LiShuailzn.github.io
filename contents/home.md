@@ -7,7 +7,7 @@
 ## 🧑‍🎓 个人简介
 
 我目前就读于山西大学大数据科学与产业研究院，攻读博士学位，师从 [[梁新彦]](https://xinyanliang.github.io/) 副教授。
-并已在 <span class="highlight">NeurIPS 2025 (CCF-A)</span> 与 <span class="highlight">ICML2026 (CCF-A)</span> 分别获得两篇 <span class="highlight">Spotlight</span> 录用。
+并已在 <span class="highlight">NeurIPS 2025</span> 与 <span class="highlight">ICML 2026</span> 分别获得两篇 <span class="highlight">Spotlight</span> 录用。
 同时，完成一篇投稿至 <span class="highlight">IEEE TPAMI (CCF-A)</span> 的工作。
 此外，我荣获了 2025 年 <span class="highlight">国家奖学金</span>。上述成果均属于基础性研究工作。
 

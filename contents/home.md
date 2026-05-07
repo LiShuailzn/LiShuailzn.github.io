@@ -7,14 +7,12 @@
 ## 🧑‍🎓 个人简介
 
 我目前就读于山西大学大数据科学与产业研究院，攻读博士学位，师从 [[梁新彦]](https://xinyanliang.github.io/) 副教授。
-并已在 <span class="highlight">NeurIPS 2025</span> 与 <span class="highlight">ICML 2026</span> 分别获得两篇 <span class="highlight">Spotlight</span> 录用。
-同时，完成一篇投稿至 <span class="highlight">IEEE TPAMI (CCF-A)</span> 的工作。
-此外，我荣获了 2025 年 <span class="highlight">国家奖学金</span>。上述成果均属于基础性研究工作。
+现已在 CCF-A 类顶会 <span class="highlight">NeurIPS 2025、ICML 2026</span> 各取得一篇 <span class="highlight">Spotlight</span> 录用，另有一项研究工作投稿于 CCF-A 类期刊 <span class="highlight">IEEE TPAMI</span>。
+以上研究均为科研前期阶段围绕演化多模态学习的基础前沿研究。
 
-我的研究兴趣主要集中在 <span class="highlight">AI for Science</span>，
-尤其关注如何将人工智能与医疗、化学、物理等各类学科进行<span class="highlight">深度交叉融合</span>。
-在硕士中后期，我的主要研究方向是探索如何将演化多模态学习应用于各类实际应用场景与学科中，一方面推动相关领域的发展，
-另一方面通过真实场景中的反馈不断完善与反哺演化算法本身。
+现阶段研究重心进一步拔高，主攻 <span class="highlight">AI for Science</span>前沿难点方向，重点探索人工智能与医疗、化学、物理等基础学科的深度交叉融合。既依托演化多模态算法解决各学科实际科研问题、赋能领域发展，也通过真实科学场景的反馈迭代优化、反哺演化算法理论与模型本身。
+
+此外，我荣获了 2025 年 <span class="highlight">国家奖学金</span>。
 
 <br>
 

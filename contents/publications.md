@@ -9,4 +9,4 @@
 ### ✅ Published
 
 - Improving evolutionary multi-view classification via eliminating individual fitness bias. (_NeurIPS 2025_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC).
-- Evolutionary multi-view classification with label noise via gradient and feature dual-perception. (_ICML 2026_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/ICML-2026-Dual-Perception).
+- GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception. (_ICML 2026_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/ICML-2026-Dual-Perception).

@@ -8,5 +8,5 @@
 
 ### ✅ Published
 
-- Improving evolutionary multi-view classification via eliminating individual fitness bias. (_NeurIPS 2025_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC).
-- GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception. (_ICML 2026_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/ICML-2026-Dual-Perception).
+- Xinyan Liang, **Shuai Li**, Qian Guo, Yuhua Qian, Bingbing Jiang, Tingjin Luo, Liang Du. Improving evolutionary multi-view classification via eliminating individual fitness bias. (_NeurIPS-25_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC).
+- **Shuai Li**, Xinyan Liang*, Yuhua Qian, Li Lv. GFD-EMVC: Evolutionary Multi-View Classification with Label Noise via Gradient and Feature Dual-Perception. (_ICML-26_, <span class="highlight">Spotlight</span>) [[paper]](https://github.com/LiShuailzn/ICML-2026-Dual-Perception).
